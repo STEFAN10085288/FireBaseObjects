@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prime_stockManagement</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Shops">
+        <item>Checkers</item>
+        <item>Shoprite</item>
+    </string-array>
+</resources>
